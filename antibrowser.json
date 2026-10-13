@@ -1,0 +1,12 @@
+{
+  "product_id": "antibrowser",
+  "product_name": "AntiBrowser",
+  "version": "v3.1028",
+  "name": "AntiBrowser v3.1028",
+  "release_date": "2026-10-13",
+  "changelog": "• Tự động cập nhật 1-click từ GitHub Releases\n• Bảo toàn dữ liệu 100%",
+  "download_url": "https://github.com/nh0k009vnn/antibrowser/releases/download/v3.1028/AntiBrowser_v3.1028.zip",
+  "sha256": "f260aea0cd256f5202bf7ee0bb04d3e02903f51e0825aae093347018a0771c2f",
+  "mandatory": false,
+  "size_mb": 29.71
+}
